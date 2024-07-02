@@ -14,7 +14,9 @@ Skills: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor
 - 🤔 I’m looking for help with Improving my backend development skills and understanding advanced Node.js concepts 
 - 💬 Ask me about Web Development, especially front-end frameworks like React 
 - 📫 How to reach me: nazrulislam.cse28@gmail.com | https://www.linkedin.com/in/nazrul-islam-a6080730b 
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute and love hiking on weekends! 
+- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute and love hiking on weekends!
+
+- ![Nazrul144's Stats](https://github-readme-stats.vercel.app/api?username=Nazrul144&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nazrul144)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazrul-islam-a6080730b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100007196595674)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Nazrul211002144)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC2PSgQ5bDN65BFqpJ2VgUSA)  
