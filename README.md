@@ -16,7 +16,7 @@ Skills: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor
 - 📫 How to reach me: nazrulislam.cse28@gmail.com | https://www.linkedin.com/in/nazrul-islam-a6080730b 
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute and love hiking on weekends!
 
-- ![Nazrul144's Stats](https://github-readme-stats.vercel.app/api?username=Nazrul144&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![Nazrul144's Stats](https://github-readme-stats.vercel.app/api?username=Nazrul144&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 ![Nazrul144's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul144&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
