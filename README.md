@@ -18,9 +18,7 @@ Skills: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor
 
 - ![Nazrul144's Stats](https://github-readme-stats.vercel.app/api?username=Nazrul144&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
-
-![Nazrul144's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nazrul144&theme=gruvbox&hide_border=false)
 ![Nazrul144's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul144&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 
-![Nazrul144's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nazrul144&theme=gruvbox&hide_border=false)
+
