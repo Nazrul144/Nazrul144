@@ -59,7 +59,9 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<div align="center">
+  ![snake gif](https://github.com/Nazrul144/Nazrul144/blob/output/github-snake-dark.svg)
+</div>
 
 
 
