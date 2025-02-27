@@ -22,7 +22,7 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 ![](https://nirzak-streak-stats.vercel.app/?user=Nazrul144&theme=radical&hide_border=false)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazrul144&theme=radical) <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nazrul144&theme=radical&utcOffset=6)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fishhknguptia2469&theme=radical&utcOffset=6)
+
 
 
 
