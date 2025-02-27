@@ -29,8 +29,7 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nazrul144)
-
+![](https://github-readme-stats.vercel.app/api?username=Nazrul144&show_icons=true&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nazrul144&icon=0&color=7)](https://visitcount.itsvg.in)
