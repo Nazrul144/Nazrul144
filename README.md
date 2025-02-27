@@ -28,7 +28,7 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+
 
 
 
