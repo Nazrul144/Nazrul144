@@ -47,9 +47,9 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 ![](https://github-profile-trophy.vercel.app/?username=Nazrul144&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
 
-
+  ![snake gif](https://github.com/Nazrul144/Nazrul144/blob/output/github-snake-dark.svg) <br/>
 
 
 
