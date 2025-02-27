@@ -20,7 +20,6 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nazrul144&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nazrul144&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul144&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazrul144&theme=radical)
 
 
