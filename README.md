@@ -29,6 +29,15 @@ I am Nazrul Islam, a passionate junior web developer with a keen interest in cre
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazrul144&theme=radical) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nazrul144&theme=radical&utcOffset=6)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul144&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-timeline?username=Nazrul144&theme=radical" />
+</p>
+
+
 
 
 
