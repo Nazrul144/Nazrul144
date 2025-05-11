@@ -1,4 +1,4 @@
-![Web Developer]()
+![Web Developer](https://i.ibb.co.com/HLwm6pzh/passport.jpg)
 ### Hi there 👋, I am Nazrul Islam
 #### Web Developer
 I am Nazrul Islam, a passionate junior web developer with a keen interest in creating dynamic and user-friendly web applications. I have a solid foundation in HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node.js, and MongoDB. I enjoy turning ideas into functional and visually appealing digital experiences. I'm always eager to learn new technologies and improve my skills. Feel free to check out my repositories and connect with me for collaboration opportunities!
